@@ -1,0 +1,1 @@
+The files are normal .py files that can be run using a python compiler with the libraries loaded (opencv and Numpy). Only the 
